@@ -55,14 +55,33 @@ def main():
 
     stats = calculate_statistics(dna_sequence)
 
+    # ORIGINAL:
+    # print("\nStatystyki sekwencji DNA:")
+    # for key, value in stats.items():
+    #     if key == 'C/G to A/T ratio':
+    #         print(f"%CG: {value:.2f}")
+    #     else:
+    #         print(f"{key}: {value:.2f}%")
+
+    #MODIFIED
     print("\nStatystyki sekwencji DNA:")
-    for key, value in stats.items():
-        if key == 'C/G to A/T ratio':
-            print(f"%CG: {value:.2f}")
-        else:
-            print(f"{key}: {value:.2f}%")
+    file_name_statistics = f"{sequence_id}_statistics.txt"
+    try:
+        with open(file_name_statistics, "w") as stats_file:
+            for key, value in stats.items():
+                if key == 'C/G to A/T ratio':
+                    stats_file.write(f"%CG: {value:.2f}\n")
+                    print(f"%CG: {value:.2f}")
+                else:
+                    stats_file.write(f"{key}: {value:.2f}%\n")
+                    print(f"{key}: {value:.2f}%")
+        print(f"Statystyki zapisane do pliku {file_name_statistics}.")
+    except IOError as e:
+        print(f"Nie udało się zapisać statystyk: {e}")
+
 
     save_to_fasta(sequence_id, description, sequence_with_name)
+
 
 
 if __name__ == "__main__":
