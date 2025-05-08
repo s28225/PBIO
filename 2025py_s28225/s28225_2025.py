@@ -1,4 +1,5 @@
 import random
+import matplotlib.pyplot as plt
 
 
 def generate_dna_sequence(length):
@@ -74,7 +75,7 @@ def main():
     # print("\nStatystyki sekwencji DNA:")
     # for key, value in stats.items():
     #     if key == 'C/G to A/T ratio':
-    #         print(f"%CG: {value:.2f}")
+    #         print(f"Ratio GC/AT: {value:.2f}")
     #     else:
     #         print(f"{key}: {value:.2f}%")
 
@@ -85,8 +86,8 @@ def main():
         with open(file_name_statistics, "w") as stats_file:
             for key, value in stats.items():
                 if key == 'C/G to A/T ratio':
-                    stats_file.write(f"%CG: {value:.2f}\n")
-                    print(f"%CG: {value:.2f}")
+                    stats_file.write(f"Ratio GC/AT: {value:.2f}\n")
+                    print(f"%Ratio GC/AT: {value:.2f}")
                 else:
                     stats_file.write(f"{key}: {value:.2f}%\n")
                     print(f"{key}: {value:.2f}%")
@@ -96,7 +97,29 @@ def main():
 
 
     save_to_fasta(sequence_id, description, sequence_with_name)
+    plot_nucleotide_statistics(stats)
 
+#ORIGINAL
+#brak funkcjonalności
+#MODIFIED
+def plot_nucleotide_statistics(stats):
+    labels = ['A', 'C', 'G', 'T']
+    values = [stats[nuc] for nuc in labels]
+
+    plt.figure(figsize=(6, 4))
+    bars = plt.bar(labels, values, color=['#ff9999', '#66b3ff', '#99ff99', '#ffcc99'])
+
+    plt.xlabel("Nukleotydy")
+    plt.ylabel("Zawartość procentowa")
+    plt.title("Statystyki sekwencji DNA")
+
+    # Show values on top of bars
+    for bar in bars:
+        yval = bar.get_height()
+        plt.text(bar.get_x() + bar.get_width()/2.0, yval + 0.5, f'{yval:.2f}%', ha='center', va='bottom')
+
+    plt.tight_layout()
+    plt.show()
 
 
 if __name__ == "__main__":
