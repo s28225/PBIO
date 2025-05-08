@@ -44,7 +44,22 @@ def save_to_fasta(sequence_id, description, sequence):
 
 
 def main():
-    length = int(input("Podaj długość sekwencji: "))
+    #ORIGINAL:
+    #length = int(input("Podaj długość sekwencji: "))
+
+    #MODIFIED ()
+    MAX_SEQUENCE_LENGTH = 10**6
+    while True:
+        try:
+            length = int(input("Podaj długość sekwencji: "))
+            if length <= 0:
+                raise ValueError("Długość musi być liczbą dodatnią.")
+            if length > MAX_SEQUENCE_LENGTH:
+                raise ValueError(f"Długość sekwencji nie może przekroczyć {MAX_SEQUENCE_LENGTH}.")
+            break
+        except ValueError as e:
+            print(f"Błąd: {e}. Spróbuj ponownie.")
+
     sequence_id = input("Podaj nazwę (ID) sekwencji: ")
     description = input("Podaj opis sekwencji: ")
     name = input("Podaj imię: ")
