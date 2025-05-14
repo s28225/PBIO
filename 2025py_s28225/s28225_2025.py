@@ -122,26 +122,24 @@ def main(): # Definiuje główną funkcję programu o nazwie 'main'
 #ORIGINAL
 #brak funkcjonalności
 #MODIFIED(Teraz jest możliwość zobaczyć graficzną reprezentację wyników)
-def plot_nucleotide_statistics(stats):
-    # Фильтруем только нуклеотиды (A, C, G, T) — исключаем 'C/G to A/T ratio'
-    nucleotides = ['A', 'C', 'G', 'T']
-    values = [stats[n] for n in nucleotides]
+def plot_nucleotide_statistics(stats):# Definiuje funkcję programu o nazwie 'plot_nucleotide_statistics' dla rysowania grafiku
+    nucleotides = ['A', 'C', 'G', 'T']# Wybieramy tylko klucze odpowiadające nukleotydom (A, C, G, T), ignorujemy 'C/G to A/T ratio'
 
-    # Настройки графика
-    plt.figure(figsize=(8, 6))  # Размер графика
-    plt.bar(nucleotides, values, color=['blue', 'green', 'orange', 'red'])  # Столбчатая диаграмма
-    plt.title('Procentowy udział nukleotydów w sekwencji DNA')  # Заголовок
-    plt.xlabel('Nukleotyd')  # Подпись оси X
-    plt.ylabel('Zawartość (%)')  # Подпись оси Y
-    plt.ylim(0, 100)  # Ограничение по оси Y (0–100%)
-    plt.grid(axis='y', linestyle='--', alpha=0.7)  # Горизонтальная сетка
+    values = [stats[n] for n in nucleotides]# Tworzymy listę wartości procentowych dla każdego nukleotydu według kolejności w 'nucleotides'
 
-    # Отображение значений на столбцах
-    for i, v in enumerate(values):
-        plt.text(i, v + 1, f"{v:.2f}%", ha='center', fontweight='bold')
+    plt.figure(figsize=(8, 6))# Tworzymy nową figurę (obszar wykresu) o rozmiarze 8x6 cali
+    plt.bar(nucleotides, values, color=['blue', 'green', 'orange', 'red'])# Tworzymy wykres słupkowy (bar chart) z kolorami przypisanymi do nukleotydów
+    plt.title('Procentowy udział nukleotydów w sekwencji DNA')# Ustawiamy tytuł wykresu
+    plt.xlabel('Nukleotyd')# Etykieta osi X
+    plt.ylabel('Zawartość (%)')# Etykieta osi Y
+    plt.ylim(0, 100)# Zakres osi Y od 0 do 100 (procenty)
+    plt.grid(axis='y', linestyle='--', alpha=0.7)# Dodajemy poziome linie siatki dla lepszej czytelności (linia przerywana, przezroczystość 0.7)
 
-    plt.tight_layout()
-    plt.show()  # Показывает график
+    for i, v in enumerate(values):# Dla każdego słupka dodajemy tekst z wartością procentową nad nim
+        plt.text(i, v + 1, f"{v:.2f}%", ha='center', fontweight='bold')# Współrzędne: i — pozycja słupka, v + 1 — trochę nad słupkiem; zaokrąglenie do 2 miejsc
+
+    plt.tight_layout()# Automatyczne dopasowanie elementów wykresu, żeby się nie nakładały
+    plt.show()# Wyświetlamy gotowy wykres w oknie graficznym
 
 
 
