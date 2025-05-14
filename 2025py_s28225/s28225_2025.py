@@ -1,4 +1,6 @@
 import random  # Importuje moduł do generowania liczb losowych (służy do tworzenia losowych sekwencji DNA i wybierania losowych pozycji)
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt  # Importuje bibliotekę do tworzenia wykresów (matplotlib) (używana do wizualizacji statystyk nukleotydów)
 
 
@@ -59,6 +61,9 @@ def main(): # Definiuje główną funkcję programu o nazwie 'main'
     # Maksymalna dozwolona długość sekwencji
     MAX_SEQUENCE_LENGTH = 10**6 # Definiuje stałą 'MAX_SEQUENCE_LENGTH' o wartości 1,000,000, ograniczającą maksymalną długość generowanej sekwencji
 
+    #ORIGINAL
+    #length = int(input("Podaj długość sekwencji: "))
+    #MODIFIED(Zapewnienie możliwości pracy z błędami powstałymi w wyniku nieprawidłowego wprowadzenia długości sekwencji.)
     # Pobiera długość sekwencji od użytkownika z walidacją
     while True: # Rozpoczyna pętlę nieskończoną, która będzie kontynuowana dopóki użytkownik nie poda poprawnej długości
         try: # Rozpoczyna blok 'try' do obsługi potencjalnych błędów podczas konwersji danych wejściowych
@@ -85,6 +90,13 @@ def main(): # Definiuje główną funkcję programu o nazwie 'main'
     # Oblicza statystyki (na podstawie oryginalnej sekwencji bez imienia)
     stats = calculate_statistics(dna_sequence) # Wywołuje funkcję 'calculate_statistics' na oryginalnej sekwencji DNA ('dna_sequence') bez wstawionego imienia, aby obliczyć statystyki nukleotydów
 
+    #ORIGINAL
+    #for key, value in stats.items():  # Iteruje przez każdą parę klucz-wartość w słowniku 'stats'
+    #    if key == 'C/G to A/T ratio':  # Sprawdza, czy klucz to stosunek GC/AT
+    #        print(f"%Ratio GC/AT: {value:.2f}")  # Wyświetla stosunek GC/AT na konsoli
+    #    else:  # Dla pozostałych statystyk (procentowa zawartość nukleotydów)
+    #       print(f"{key}: {value:.2f}%")  # Wyświetla procentową zawartość nukleotydu na konsoli
+    #MODIFIED(Dodanie funkcjonalności umożliwiającej zapisywanie wyników obliczeń w pliku w celu ich późniejszego przeglądania)
     # Zapisuje statystyki do pliku oraz wyświetla je
     print("\nStatystyki sekwencji DNA:") # Wyświetla nagłówek dla statystyk
     file_name_statistics = f"{sequence_id}_statistics.txt" # Tworzy nazwę pliku dla statystyk, np. 'ID_sekwencji_statistics.txt'
@@ -107,32 +119,30 @@ def main(): # Definiuje główną funkcję programu o nazwie 'main'
     # Rysuje wykres statystyk
     plot_nucleotide_statistics(stats) # Wywołuje funkcję 'plot_nucleotide_statistics', aby stworzyć i wyświetlić wykres słupkowy statystyk nukleotydów
 
-
 #ORIGINAL
 #brak funkcjonalności
-#MODIFIED
-def plot_nucleotide_statistics(stats): # Definiuje funkcję 'plot_nucleotide_statistics' przyjmującą słownik 'stats' jako argument
-    # Przygotowuje etykiety i wartości tylko dla A, C, G, T
-    labels = ['A', 'C', 'G', 'T'] # Tworzy listę etykiet dla osi X wykresu, odpowiadających nukleotydom
-    values = [stats[nuc] for nuc in labels] # Tworzy listę wartości (procentowa zawartość) dla każdego nukleotydu z 'labels', pobierając je ze słownika 'stats'
+#MODIFIED(Teraz jest możliwość zobaczyć graficzną reprezentację wyników)
+def plot_nucleotide_statistics(stats):
+    # Фильтруем только нуклеотиды (A, C, G, T) — исключаем 'C/G to A/T ratio'
+    nucleotides = ['A', 'C', 'G', 'T']
+    values = [stats[n] for n in nucleotides]
 
-    # Tworzy nowy wykres
-    plt.figure(figsize=(6, 4)) # Tworzy nowy obiekt figury wykresu o rozmiarze 6x4 cali
-    bars = plt.bar(labels, values, color=['#ff9999', '#66b3ff', '#99ff99', '#ffcc99']) # Tworzy wykres słupkowy; 'labels' to etykiety na osi X, 'values' to wysokości słupków, 'color' definiuje kolory dla poszczególnych słupków
+    # Настройки графика
+    plt.figure(figsize=(8, 6))  # Размер графика
+    plt.bar(nucleotides, values, color=['blue', 'green', 'orange', 'red'])  # Столбчатая диаграмма
+    plt.title('Procentowy udział nukleotydów w sekwencji DNA')  # Заголовок
+    plt.xlabel('Nukleotyd')  # Подпись оси X
+    plt.ylabel('Zawartość (%)')  # Подпись оси Y
+    plt.ylim(0, 100)  # Ограничение по оси Y (0–100%)
+    plt.grid(axis='y', linestyle='--', alpha=0.7)  # Горизонтальная сетка
 
-    # Etykiety osi i tytuł
-    plt.xlabel("Nukleotydy") # Ustawia etykietę osi X na "Nukleotydy"
-    plt.ylabel("Zawartość procentowa") # Ustawia etykietę osi Y na "Zawartość procentowa"
-    plt.title("Statystyki sekwencji DNA") # Ustawia tytuł wykresu na "Statystyki sekwencji DNA"
+    # Отображение значений на столбцах
+    for i, v in enumerate(values):
+        plt.text(i, v + 1, f"{v:.2f}%", ha='center', fontweight='bold')
 
-    # Dodaje wartości nad słupkami
-    for bar in bars: # Iteruje przez każdy słupek na wykresie
-        yval = bar.get_height() # Pobiera wysokość bieżącego słupka (wartość procentową)
-        plt.text(bar.get_x() + bar.get_width()/2.0, yval + 0.5, f'{yval:.2f}%', ha='center', va='bottom') # Dodaje tekst (wartość procentową sformatowaną do 2 miejsc po przecinku) nad środkiem każdego słupka; 'ha' i 'va' kontrolują wyrównanie tekstu
+    plt.tight_layout()
+    plt.show()  # Показывает график
 
-    # Optymalizuje rozmieszczenie elementów
-    plt.tight_layout() # Automatycznie dostosowuje parametry wykresu, aby zapewnić ciasne dopasowanie elementów (np. etykiet, tytułu)
-    plt.show()  # Wyświetla wykres
 
 
 if __name__ == "__main__": # Standardowa konstrukcja w Pythonie; sprawdza, czy skrypt jest uruchamiany bezpośrednio (a nie importowany jako moduł)
