@@ -1,0 +1,866 @@
+LOCUS       NM_001438881            5962 bp    mRNA    linear   PRI 12-MAY-2025
+DEFINITION  Homo sapiens dystroglycan 1 (DAG1), transcript variant 15, mRNA.
+ACCESSION   NM_001438881 XM_047447539 XM_054345425
+VERSION     NM_001438881.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5962)
+  AUTHORS   Traverso,M., Baratto,S., Iacomino,M., Di Duca,M., Panicucci,C.,
+            Casalini,S., Grandis,M., Falace,A., Torella,A., Picillo,E.,
+            Onore,M.E., Politano,L., Nigro,V., Innes,A.M., Barresi,R.,
+            Bruno,C., Zara,F., Fiorillo,C. and Scala,M.
+  TITLE     DAG1 haploinsufficiency is associated with sporadic and familial
+            isolated or pauci-symptomatic hyperCKemia
+  JOURNAL   Eur J Hum Genet 32 (3), 342-349 (2024)
+   PUBMED   38177406
+  REMARK    GeneRIF: DAG1 haploinsufficiency is associated with sporadic and
+            familial isolated or pauci-symptomatic hyperCKemia.
+REFERENCE   2  (bases 1 to 5962)
+  AUTHORS   Shareef,S.H., Amin,K. and Janson,C.
+  TITLE     The Association Between beta-Dystroglycan in Airway Smooth Muscle
+            and Eosinophils in Allergic Asthma
+  JOURNAL   Inflammation 44 (3), 1060-1068 (2021)
+   PUBMED   33566255
+  REMARK    GeneRIF: The Association Between beta-Dystroglycan in Airway Smooth
+            Muscle and Eosinophils in Allergic Asthma.
+REFERENCE   3  (bases 1 to 5962)
+  AUTHORS   Ortiz-Cordero,C., Magli,A., Dhoke,N.R., Kuebler,T., Selvaraj,S.,
+            Oliveira,N.A., Zhou,H., Sham,Y.Y., Bang,A.G. and Perlingeiro,R.C.
+  TITLE     NAD+ enhances ribitol and ribose rescue of alpha-dystroglycan
+            functional glycosylation in human FKRP-mutant myotubes
+  JOURNAL   Elife 10, e65443 (2021)
+   PUBMED   33513091
+  REMARK    GeneRIF: NAD+ enhances ribitol and ribose rescue of
+            alpha-dystroglycan functional glycosylation in human FKRP-mutant
+            myotubes.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 5962)
+  AUTHORS   Gomez-Monsivais,W.L., Monterrubio-Ledezma,F., Huerta-Cantillo,J.,
+            Mondragon-Gonzalez,R., Alamillo-Iniesta,A., Garcia-Aguirre,I.,
+            Azuara-Medina,P.M., Arguello-Garcia,R., Rivera-Monroy,J.E.,
+            Holaska,J.M., Hernandez-Mendez,J.M.E., Garrido,E., Magana,J.J.,
+            Winder,S.J., Brancaccio,A., Martinez-Vieyra,I., Navarro-Garcia,F.
+            and Cisneros,B.
+  TITLE     The Molecular Basis and Biologic Significance of the
+            beta-Dystroglycan-Emerin Interaction
+  JOURNAL   Int J Mol Sci 21 (17), 5944 (2020)
+   PUBMED   32824881
+  REMARK    GeneRIF: The Molecular Basis and Biologic Significance of the
+            beta-Dystroglycan-Emerin Interaction.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 5962)
+  AUTHORS   Beltran,D., Anderson,M.E., Bharathy,N., Settelmeyer,T.P.,
+            Svalina,M.N., Bajwa,Z., Shern,J.F., Gultekin,S.H., Cuellar,M.A.,
+            Yonekawa,T., Keller,C. and Campbell,K.P.
+  TITLE     Exogenous expression of the glycosyltransferase LARGE1 restores
+            alpha-dystroglycan matriglycan and laminin binding in
+            rhabdomyosarcoma
+  JOURNAL   Skelet Muscle 9 (1), 11 (2019)
+   PUBMED   31054580
+  REMARK    GeneRIF: findings demonstrate that a lack of matriglycan on
+            alpha-dystroglycan is a common feature in rhabdomyosarcoma due to
+            the downregulation of LARGE1, and that ectopic expression of LARGE1
+            can restore matriglycan modifications and the ability of
+            alpha-dystroglycan to function as an extracellular matrix receptor
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 5962)
+  AUTHORS   Apel,E.D., Roberds,S.L., Campbell,K.P. and Merlie,J.P.
+  TITLE     Rapsyn may function as a link between the acetylcholine receptor
+            and the agrin-binding dystrophin-associated glycoprotein complex
+  JOURNAL   Neuron 15 (1), 115-126 (1995)
+   PUBMED   7619516
+REFERENCE   7  (bases 1 to 5962)
+  AUTHORS   Yang,B., Jung,D., Motto,D., Meyer,J., Koretzky,G. and Campbell,K.P.
+  TITLE     SH3 domain-mediated interaction of dystroglycan and Grb2
+  JOURNAL   J Biol Chem 270 (20), 11711-11714 (1995)
+   PUBMED   7744812
+REFERENCE   8  (bases 1 to 5962)
+  AUTHORS   Skynner,M.J., Gangadharan,U., Coulton,G.R., Mason,R.M.,
+            Nikitopoulou,A., Brown,S.D. and Blanco,G.
+  TITLE     Genetic mapping of the mouse neuromuscular mutation kyphoscoliosis
+  JOURNAL   Genomics 25 (1), 207-213 (1995)
+   PUBMED   7774920
+REFERENCE   9  (bases 1 to 5962)
+  AUTHORS   Matsumura,K., Tome,F.M., Collin,H., Azibi,K., Chaouch,M.,
+            Kaplan,J.C., Fardeau,M. and Campbell,K.P.
+  TITLE     Deficiency of the 50K dystrophin-associated glycoprotein in severe
+            childhood autosomal recessive muscular dystrophy
+  JOURNAL   Nature 359 (6393), 320-322 (1992)
+   PUBMED   1406935
+REFERENCE   10 (bases 1 to 5962)
+  AUTHORS   Ibraghimov-Beskrovnaya,O., Ervasti,J.M., Leveille,C.J.,
+            Slaughter,C.A., Sernett,S.W. and Campbell,K.P.
+  TITLE     Primary structure of dystrophin-associated glycoproteins linking
+            dystrophin to the extracellular matrix
+  JOURNAL   Nature 355 (6362), 696-702 (1992)
+   PUBMED   1741056
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC104452.2.
+            
+            On or before May 12, 2025 this sequence version replaced
+            XM_047447539.1, XM_054345425.1.
+            
+            Summary: This gene encodes dystroglycan, a central component of
+            dystrophin-glycoprotein complex that links the extracellular matrix
+            and the cytoskeleton in the skeletal muscle. The encoded
+            preproprotein undergoes O- and N-glycosylation, and proteolytic
+            processing to generate alpha and beta subunits. Certain mutations
+            in this gene are known to cause distinct forms of muscular
+            dystrophy. Alternative splicing results in multiple transcript
+            variants, all encoding the same protein. [provided by RefSeq, Nov
+            2015].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038195.1434957.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA2161674
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-167               AC104452.2         97025-97191         c
+            168-252             AC104452.2         96409-96493         c
+            253-309             AC104452.2         90553-90609         c
+            310-471             AC104452.2         80043-80204         c
+            472-591             AC104452.2         78713-78832         c
+            592-742             AC104452.2         74485-74635         c
+            743-1143            AC104452.2         56639-57039         c
+            1144-5962           AC104452.2         31843-36661         c
+FEATURES             Location/Qualifiers
+     source          1..5962
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3p21.31"
+     gene            1..5962
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="dystroglycan 1"
+                     /db_xref="GeneID:1605"
+                     /db_xref="HGNC:HGNC:2666"
+                     /db_xref="MIM:128239"
+     exon            1..167
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            168..252
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            253..309
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            310..471
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            472..591
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            592..742
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /inference="alignment:Splign:2.1.0"
+     exon            743..1143
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    781..783
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="upstream in-frame stop codon"
+     CDS             859..3546
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="dystroglycan 1 (dystrophin-associated glycoprotein
+                     1)"
+                     /codon_start=1
+                     /product="dystroglycan 1 preproprotein"
+                     /protein_id="NP_001425810.1"
+                     /db_xref="GeneID:1605"
+                     /db_xref="HGNC:HGNC:2666"
+                     /db_xref="MIM:128239"
+                     /translation="MRMSVGLSLLLPLSGRTFLLLLSVVMAQSHWPSEPSEAVRDWEN
+                     QLEASMHSVLSDLHEAVPTVVGIPDGTAVVGRSFRVTIPTDLIASSGDIIKVSAAGKE
+                     ALPSWLHWDSQSHTLEGLPLDTDKGVHYISVSATRLGANGSHIPQTSSVFSIEVYPED
+                     HSELQSVRTASPDPGEVVSSACAADEPVTVLTVILDADLTKMTPKQRIDLLHRMRSFS
+                     EVELHNMKLVPVVNNRLFDMSAFMAGPGNAKKVVENGALLSWKLGCSLNQNSVPDIHG
+                     VEAPAREGAMSAQLGYPVVGWHIANKKPPLPKRVRRQIHATPTPVTAIGPPTTAIQEP
+                     PSRIVPTPTSPAIAPPTETMAPPVRDPVPGKPTVTIRTRGAIIQTPTLGPIQPTRVSE
+                     AGTTVPGQIRPTMTIPGYVEPTAVATPPTTTTKKPRVSTPKPATPSTDSTTTTTRRPT
+                     KKPRTPRPVPRVTTKVSITRLETASPPTRIRTTTSGVPRGGEPNQRPELKNHIDRVDA
+                     WVGTYFEVKIPSDTFYDHEDTTTDKLKLTLKLREQQLVGEKSWVQFNSNSQLMYGLPD
+                     SSHVGKHEYFMHATDKGGLSAVDAFEIHVHRRPQGDRAPARFKAKFVGDPALVLNDIH
+                     KKIALVKKLAFAFGDRNCSTITLQNITRGSIVVEWTNNTLPLEPCPKEQIAGLSRRIA
+                     EDDGKPRPAFSNALEPDFKATSITVTGSGSCRHLQFIPVVPPRRVPSEAPPTEVPDRD
+                     PEKSSEDDVYLHTVIPAVVVAAILLIAGIIAMICYRKKRKGKLTLEDQATFIKKGVPI
+                     IFADELDDSKPPPSSSMPLILQEEKAPLPPPEYPNQSVPETTPLNQDTMGEYTPLRDE
+                     DPNAPPYQPPPPFTAPMEGKGSRPKNMTPYRSPPPYVPP"
+     sig_peptide     859..945
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="/evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2)"
+     mat_peptide     946..2817
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /product="Alpha-dystroglycan. /id=PRO_0000021065"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2)"
+     misc_feature    946..2082
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Required for laminin recognition"
+     misc_feature    1045..1047
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    1279..1281
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    1363..1458
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: O-glycosylated at one site"
+     misc_feature    1804..2313
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Mucin-like domain"
+     misc_feature    1807..1809
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (Man6P...) threonine.
+                     /evidence=ECO:0000269|PubMed:21987822,
+                     ECO:0000269|PubMed:24256719; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    1813..1815
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (Man6P...) threonine.
+                     /evidence=ECO:0000269|PubMed:21987822,
+                     ECO:0000269|PubMed:24256719; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    1957..1959
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (Hex...) threonine.
+                     /evidence=ECO:0000269|PubMed:20507882; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    1963..1965
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (Hex...) threonine.
+                     /evidence=ECO:0000269|PubMed:20507882; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    1972..1974
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (Hex...) threonine.
+                     /evidence=ECO:0000269|PubMed:20507882; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    1993..1995
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (Man6P...) threonine.
+                     /evidence=ECO:0000269|PubMed:20044576,
+                     ECO:0000269|PubMed:23723439; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    1999..2238
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1999..2001
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (Hex...) threonine.
+                     /evidence=ECO:0000269|PubMed:20044576; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    2020..2022
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (Hex...) threonine.
+                     /evidence=ECO:0000269|PubMed:20044576; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    2221..2223
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:20507882; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    2245..2313
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: O-glycosylated at seven sites with GalNAc"
+     misc_feature    2290..2352
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    2779..2781
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    2803..2805
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    2815..2820
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="Cleavage, by autolysis.
+                     /evidence=ECO:0000269|PubMed:17905726; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); cleavage site"
+     mat_peptide     2818..3543
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /product="Beta-dystroglycan. /id=PRO_0000021066"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2)"
+     misc_feature    2839..2841
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:18764929; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); glycosylation site"
+     misc_feature    3001..3006
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="Cleavage, by MMP9.
+                     /evidence=ECO:0000269|PubMed:19946898; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); cleavage site"
+     misc_feature    3028..3096
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    3106..3183
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     transmembrane region"
+     misc_feature    3184..3204
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Nuclear localization signal.
+                     /evidence=ECO:0000269|PubMed:20512930"
+     misc_feature    3226..3228
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q14118.2); phosphorylation site"
+     misc_feature    3313..3543
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Required for interaction with CAV3.
+                     /evidence=ECO:0000269|PubMed:10988290"
+     misc_feature    3325..3543
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    3496..3543
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: Required for binding DMD and UTRN"
+     misc_feature    3523..3534
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     Region: PPXY motif"
+     misc_feature    3532..3534
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="Phosphotyrosine, by SRC.
+                     /evidence=ECO:0000269|PubMed:11495720,
+                     ECO:0000269|PubMed:12795607, ECO:0000269|PubMed:20512930;
+                     propagated from UniProtKB/Swiss-Prot (Q14118.2);
+                     phosphorylation site"
+     exon            1144..5962
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5938..5943
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="hexamer: AATAAA"
+     polyA_site      5962
+                     /gene="DAG1"
+                     /gene_synonym="156DAG; A3a; AGRNR; DAG; LGMDR16; MDDGA9;
+                     MDDGC7; MDDGC9"
+                     /note="major polyA site"
+ORIGIN      
+        1 accgcccggt acgtgctcgc gcgaaggctg cggcgcggcg ctcgcgcctc ttaggcttgg
+       61 cggtggcggc ggcggcagct tcgcgccgaa tccccgggga gcggcggtgg cggcgtcctg
+      121 gggccaggag gagcgaacac ctgccgcggt cctcccgccg gcgctggacc tggttcacct
+      181 gcgagtgtat ttggatagtg tctccacaga aaatgtcgtc tcggcttgga atctttttgc
+      241 cataaattct aaggccactg ctctccagga agataaggct tttaaagcag cctagcacta
+      301 gaaggtgagg cacacgactg tctatcccag atggctgcac tggcctagga cagacggttc
+      361 ttcccccagt acgtcaagac cctggagggt gcaagctaca gaacagctgg gctcctgcat
+      421 tcctcccaga ccctgtcttc agtaggacaa caggcaacaa acttaaattt gggattctca
+      481 ttctgtctcc catgctggag tgcagtggcg cggtcttggc tcactgaaac ctttgcttcc
+      541 cagggtcaag cgattcccct gcctcagctt cctgagtagc tgggattaca gatagccctg
+      601 ggatctcctg aatttccagg ttgggctact caggcatgga ttgactccta cagttcaggc
+      661 ggatggagat cccaccaacc cacagcttaa ttcttcagat gctttatctt catttctcat
+      721 gtatcttcag ttggcttcta atgctctgtg tgctccggga tggagcaggt gtgcagaggg
+      781 tgagaaccca gctctgggac caagtcactt gcttccttac ttagcaagac tatcgacttg
+      841 agcaaacttg gacctgggat gaggatgtct gtgggcctct cgctgctgct gcccctctcg
+      901 gggaggacct ttctcctcct gctctctgtg gttatggctc agtcccactg gcccagtgaa
+      961 ccctcagagg ctgtcaggga ctgggaaaac cagcttgagg catccatgca ctcagtgctc
+     1021 tcagacctcc acgaggctgt tcccacagtg gttggcattc ctgatggcac ggctgtcgtc
+     1081 gggcgctcat ttcgagtgac cattccaaca gatttgattg cctccagtgg agatatcatc
+     1141 aaggtatcag cggcagggaa ggaggctttg ccatcttggc tgcactggga ctcacagagc
+     1201 cacaccctgg agggcctccc ccttgacact gataagggtg tgcattacat ttcagtgagc
+     1261 gctacacggc tgggggccaa cgggagccac atcccccaga cctccagtgt gttctccatc
+     1321 gaggtctacc ctgaagacca cagtgagctg cagtcggtga ggacagcctc cccagaccct
+     1381 ggtgaggtgg tatcatctgc ctgtgctgcg gatgaacctg tgactgtttt gacggtgatt
+     1441 ttggatgccg acctcaccaa gatgacccca aagcaaagga ttgacctcct gcacaggatg
+     1501 cggagcttct cagaagtaga gcttcacaac atgaaattag tgccggtggt gaataacaga
+     1561 ctatttgaca tgtcggcctt catggctggc ccgggaaatg caaaaaaggt ggtggagaat
+     1621 ggggcccttc tctcctggaa gctgggctgc tccctgaacc agaacagtgt gcctgacatt
+     1681 catggtgtag aggcccctgc cagggagggc gcaatgtctg ctcagcttgg ctaccctgtg
+     1741 gtgggttggc acatcgccaa taagaagccc cctcttccca aacgcgtccg gaggcagatc
+     1801 catgctacac ccacacctgt cactgccatt gggcccccaa ccacggctat ccaggagccc
+     1861 ccatccagga tcgtgccaac ccccacatct ccagccattg ctcctccaac agagaccatg
+     1921 gctcctccag tcagggatcc tgttcctggg aaacccacgg tcaccatccg gactcgaggc
+     1981 gccattattc aaaccccaac cctaggcccc atccagccta ctcgggtgtc agaagctggc
+     2041 accacagttc ctggccagat tcgcccaacg atgaccattc ctggctatgt ggagcctact
+     2101 gcagttgcta cccctcccac aaccaccacc aagaagccac gagtatccac accaaaacca
+     2161 gcaacgcctt caactgactc caccaccacc acgactcgca ggccaaccaa gaaaccacgg
+     2221 acaccccggc cagtgccccg ggtcaccacc aaagtttcca tcaccagatt ggaaactgcc
+     2281 tcaccgccta ctcgtattcg caccaccacc agtggagtgc cccgtggcgg agaacccaac
+     2341 cagcgcccag agctcaagaa ccatattgac agggtagatg cctgggttgg cacctacttt
+     2401 gaggtgaaga tcccgtcaga cactttctat gaccatgagg acaccaccac tgacaagctg
+     2461 aagctgaccc tgaaactgcg ggagcagcag ctggtgggcg agaagtcctg ggtacagttc
+     2521 aacagcaaca gccagctcat gtatggcctt cccgacagca gccacgtggg caaacacgag
+     2581 tatttcatgc atgccacaga caaggggggc ctgtcggctg tggatgcctt cgagatccac
+     2641 gtccacaggc gcccccaagg ggatagggct cctgcaaggt tcaaggccaa gtttgtgggt
+     2701 gacccggcac tggtgttgaa tgacatccac aagaagattg ccttggtaaa gaaactggcc
+     2761 ttcgcctttg gagaccgaaa ctgtagcacc atcaccctgc agaatatcac ccggggctcc
+     2821 atcgtggtgg aatggaccaa caacacactg cccttggagc cctgccccaa ggagcagatc
+     2881 gctgggctga gccgccggat cgctgaggat gatggaaaac ctcggcctgc cttctccaac
+     2941 gccctagagc ctgactttaa ggccacaagc atcactgtga cgggctctgg cagttgtcgg
+     3001 cacctacagt ttatccctgt ggtaccaccc aggagagtgc cctcagaggc gccgcccaca
+     3061 gaagtgcctg acagggaccc tgagaagagc agtgaggatg atgtctacct gcacacagtc
+     3121 attccggccg tggtggtcgc agccatcctg ctcattgctg gcatcattgc catgatctgc
+     3181 taccgcaaga agcggaaggg caagcttacc cttgaggacc aggccacctt catcaagaag
+     3241 ggggtgccta tcatctttgc agacgaactg gacgactcca agcccccacc ctcctccagc
+     3301 atgccactca ttctgcagga ggagaaggct cccctacccc ctcctgagta ccccaaccag
+     3361 agtgtgcccg agaccactcc tctgaaccag gacaccatgg gagagtacac gcccctgcgg
+     3421 gatgaggatc ccaatgcgcc tccctaccag cccccaccgc ccttcacagc acccatggag
+     3481 ggcaagggct cccgtcccaa gaacatgacc ccataccggt cacctcctcc ctatgtccca
+     3541 ccttaacccg caagcgcctg ggtggaggca gggtagggca ggggcctgga gacgacatgg
+     3601 tgttgtctgt ggagaccggt ggcctgcaga ccattgccca ccgggagccg acacctgacc
+     3661 tagcacacac tgacacaggg gcctggacaa gcccgccctc tctggtcctc ccaaacccca
+     3721 aagcagctgg agagactttg gggacttttt tatttttatt ttttgcctaa cagcttttgg
+     3781 tttgttcata gagaattctt cgcttcattt ttgatggctg gctctgaaag caccatgtgg
+     3841 agtggaggtg gagggagcga ggaaccatga atgaactcgc aggcagtgcc gggcggcccc
+     3901 ctggctctct gcgttttgcc tttaacacta actgtactgt tttttctatt cacgtgtgtc
+     3961 tagctgcagg atgtaacatg gaaaacagta actaaagatt aaattcaaag gactttcaga
+     4021 agttaaggtt aagtttttac gtttaatctg ctgtttacct aaacttgtat gtataatttt
+     4081 tgggtgggta tggggaattg ctttgctaaa aataagctcc cagggtgttt caaacttaga
+     4141 gaagaccaag ggacagtatt ttttatcaaa ggaatactat tttttcacac tacgtcaact
+     4201 tggttgctct gataccccag agcctgattg ggggcctccc ggccctggct cacgccaagt
+     4261 ccctggtgct gggtttgctc tcccgctgtt gccaggggct ggaagctgga ggggtctctt
+     4321 gggccatgga catccccact tccagcccat gtacactagt ggcccacgac caaggggtct
+     4381 tcatttccat gaaaaaggga ctccaagagg cagtggtggc tgtggccccc aactttggtg
+     4441 ctccagggtg ggccagctgc ttgtgggggc acctgggagg tcaaaggtct ccaccacatc
+     4501 aacctatttt gttttaccct ttttctgtgc attgtttttt tttttcctcc taaaaggaat
+     4561 atcacggttt tttgaaacac tcagtggggg acattttggt gaagatgcaa tatttttatg
+     4621 tcatgtgatg ctctttcctc acttgacctt ggccgctttg tcctaacagt ccacagtcct
+     4681 gccccgaccc accccatccc ttttctctgg cactccagtc ccaggccttg ggcctgaact
+     4741 actggaaaag gtctggcggc tggggaggag tgccagcaat agttcataat aaaaatctgt
+     4801 tagctctcaa agctaatttt ttactaaagt ttttatacag cctcaaattg ttttattaaa
+     4861 aaaaagattt aaaatggtga tgcttacagc agtttgtacg agctcttaag tgttgattcc
+     4921 atggaactga cggctttgct tgttttgatt cttttccccc tacttttcct aatggtttaa
+     4981 attctggaat tacactgggg ttcttttgcc ttttttagca gaacatccgt ccgtccatct
+     5041 gcatctctgt cccatgactc aggggcgccc actctgcttc gattctcctc ctgtggaaga
+     5101 aaccattttg agcatgactt ttcttgatgt ctgaagcgtt attttgggta ctttttaggg
+     5161 aggaatgcct ttcgcaataa tgtatccatt ccctgattga gggtgggtgg gtggacccag
+     5221 gctccctttg cacacagagc agctacttct aagccatatc gactgttttg cagaggattt
+     5281 gtgtgtgctg cctcaggagg ggagggctgg taggaggggg ggagaggtct ctgtcctact
+     5341 gctctccaga gggcatttcc ccttgcgcct tctcccacag ggcccagccc ctctcccctg
+     5401 ccccagtccc cagggggtac tctggagtga gcagtgcccc tgtgggggag cctgtaaatg
+     5461 cgggctcagt ggaccactgg tgactgggct catgcctcca agtcagagtt tccctggtgc
+     5521 cccagagaca ggagcacaag tgggatctga cctggtgaga ttatttctga tgacctcatc
+     5581 aaaaaataaa caattcccaa tgttccaggt gagggctttg aaaggccttc caaacagctc
+     5641 cgtcgcccct agcaactcca ccattgggca ctgccatgca gagacgtggc tggcccagaa
+     5701 tggcctgttg ccatagcaac tggaggcgat ggggcagtga acagaataac aacagcaaca
+     5761 atgcctttgc aggcagcctg ctcccctgag cgctgggctg gtgatggtcg ttggactctg
+     5821 tgagatggag agccaatctc acattcaagt gttcaccaac cactgatgtg tttttatttc
+     5881 cttctatatg attttaagat gtgttttctg cattctgtaa agaaacatat caaactaaat
+     5941 aaaagcagtg tctttattac aa
+//
+
+LOCUS       PV604443                 711 bp    mRNA    linear   PRI 12-MAY-2025
+DEFINITION  Homo sapiens isolate KS-LV6-57 immunoglobulin lambda light chain
+            mRNA, complete cds.
+ACCESSION   PV604443
+VERSION     PV604443.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 711)
+  AUTHORS   Comenzo,R., Zhou,P., Ma,X., Scalia,S. and Toskic,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2025) Hematology/Oncology, Tufts Medical Center,
+            800 Washington Street, Boston, MA 02111, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..711
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /isolate="KS-LV6-57"
+                     /db_xref="taxon:9606"
+                     /sex="male"
+                     /cell_type="Plasma Cell"
+                     /tissue_type="bone marrow"
+                     /note="AL Amyloidosis"
+     CDS             1..711
+                     /note="LV6-57"
+                     /codon_start=1
+                     /product="immunoglobulin lambda light chain"
+                     /protein_id="XTJ54884.1"
+                     /translation="MAWAPLLLTLLTHCTGSWANFMLTQPHSVSESPGKTVTISCTRS
+                     SGSIASDYVQWYQQRPGSAPTTVIFEHTERPSGVPDRFSGSIDSSSNSASLTISGLKT
+                     EDEADYYCQSYHTTNHGVFGGGTKLTVLGQPKAAPSVTLFPPSSEELQANKATLVCLI
+                     SDFYPGAVTVAWKADSSPVKAGVETTTPSKQSNNKYAASSYLSLTPEQWKSHKSYSCQ
+                     VTHEGSTVEKTVAPTECS"
+ORIGIN      
+        1 atggcctggg ctccactact tctcaccctc ctcactcact gcacaggttc ttgggccaat
+       61 tttatgctga ctcagccaca ctctgtgtcg gagtctccgg ggaagacggt aaccatctcc
+      121 tgcacccgca gcagtggcag cattgccagc gactatgtgc agtggtacca gcagcgcccg
+      181 ggcagtgccc ccaccactgt gatctttgag catactgaaa gaccctctgg ggtccctgat
+      241 cggttctctg gctccatcga cagctcctcc aactctgcct ccctcaccat ctctggactg
+      301 aagactgagg acgaggctga ctactactgt cagtcttatc ataccaccaa tcatggggtg
+      361 ttcggcggag ggaccaagct gaccgtccta ggtcagccca aggctgcccc ctcggtcact
+      421 ctgttcccgc cctcctctga ggagcttcaa gccaacaagg ccacactggt gtgtctcata
+      481 agtgacttct acccgggagc cgtgacagtg gcctggaagg cagatagcag ccccgtcaag
+      541 gcgggagtgg agaccaccac accctccaaa caaagcaaca acaagtacgc ggccagcagc
+      601 tacctgagcc tgacgcctga gcagtggaag tcccacaaaa gctacagctg ccaggtcacg
+      661 catgaaggga gcaccgtgga gaagacagtg gcccctacag aatgttcata g
+//
+
+LOCUS       PV604442                 714 bp    mRNA    linear   PRI 12-MAY-2025
+DEFINITION  Homo sapiens isolate JD-LV2-14 immunoglobulin lambda light chain
+            mRNA, complete cds.
+ACCESSION   PV604442
+VERSION     PV604442.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 714)
+  AUTHORS   Comenzo,R., Zhou,P., Ma,X., Scalia,S. and Toskic,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2025) Hematology/Oncology, Tufts Medical Center,
+            800 Washington Street, Boston, MA 02111, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..714
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /isolate="JD-LV2-14"
+                     /db_xref="taxon:9606"
+                     /sex="male"
+                     /cell_type="Plasma Cell"
+                     /tissue_type="bone marrow"
+                     /note="AL Amyloidosis"
+     CDS             1..714
+                     /note="LV2-14"
+                     /codon_start=1
+                     /product="immunoglobulin lambda light chain"
+                     /protein_id="XTJ54883.1"
+                     /translation="MAWALLLLTLLTQGTGSWAQSALTQPASVSGSPGQSVTISCTGT
+                     SGDIGGYNYVSWYQQHPGRAPKLLISEVTNRPSGISNRVSGSKSGNTASLTISGLQAE
+                     DEADYYCSSYTSNNTLEVVFGGGTKVTVLGQPKAAPSVTLFPPSSEELQANKATLVCL
+                     ISDFYPGAVTVAWKADSSPVKAGVETTTPSKQSNNKYAASSYLSLTPEQWKSHRSYSC
+                     QVTHEGSTVEKTVAPTECS"
+ORIGIN      
+        1 atggcctggg ctctgctgct cctcaccctc ctcactcagg gcacagggtc ctgggcccag
+       61 tctgccctga ctcagcctgc ctccgtgtct gggtctcctg gacagtcggt caccatctcc
+      121 tgcactggaa ccagcggtga cattggtggt tataattatg tctcctggta ccaacagcac
+      181 ccaggcaggg cccccaaact cctgatttct gaggtcacta atcggccctc aggcatctct
+      241 aatcgcgtct ctggctccaa gtctggcaac acggcctccc tgaccatctc tggcctccag
+      301 gctgaggacg aggctgacta ttattgcagc tcatatacaa gcaacaacac tctcgaagtg
+      361 gtcttcggcg gagggaccaa ggtgaccgtc ctaggtcagc ccaaggctgc cccctcggtc
+      421 actctgttcc cgccctcctc tgaggagctt caagccaaca aggccacact ggtgtgtctc
+      481 ataagtgact tctacccggg agccgtgaca gtggcctgga aggcagatag cagccccgtc
+      541 aaggcgggag tggagaccac cacaccctcc aaacaaagca acaacaagta cgcggccagc
+      601 agctatctga gcctgacgcc tgagcagtgg aagtcccaca gaagctacag ctgccaggtc
+      661 acgcatgaag ggagcaccgt ggagaagaca gtggccccta cagaatgttc atag
+//
+
+LOCUS       PQ212803                3358 bp    DNA     linear   PRI 12-MAY-2025
+DEFINITION  Homo sapiens MHC class I antigen (HLA-A) gene,
+            HLA-A*02:01:01:01_NewAllele_1 allele, complete cds.
+ACCESSION   PQ212803
+VERSION     PQ212803.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3358)
+  AUTHORS   Han,Y., Liu,Y., Wang,C., Feng,S. and Gao,P.
+  TITLE     Detection of the Novel HLA-A*02:01:01:257 Allele by Pacific
+            Biosciences HiFi Sequencing in a Chinese Individual
+  JOURNAL   HLA 105 (1), e70040 (2025)
+   PUBMED   39865468
+REFERENCE   2  (bases 1 to 3358)
+  AUTHORS   Han,Y. and Gao,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-AUG-2024) Hematology Department, the First Affiliated
+            Hospital of Xi'an Jiaotong University, 277 West Yanta Road, Xi'an,
+            Shannxi 710061, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: pbmm2 v. v1.5.0-1-gadeb061
+            Assembly Name         :: HLA-A*02:01:01:01_NewAllele_1
+            Coverage              :: 500
+            Sequencing Technology :: PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3358
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <142..>3058
+                     /gene="HLA-A"
+                     /allele="HLA-A*02:01:01:01_NewAllele_1"
+     mRNA            join(<142..214,345..614,856..1131,1732..2007,2107..2223,
+                     2662..2694,2837..2884,3054..>3058)
+                     /gene="HLA-A"
+                     /allele="HLA-A*02:01:01:01_NewAllele_1"
+                     /product="MHC class I antigen"
+     CDS             join(142..214,345..614,856..1131,1732..2007,2107..2223,
+                     2662..2694,2837..2884,3054..3058)
+                     /gene="HLA-A"
+                     /allele="HLA-A*02:01:01:01_NewAllele_1"
+                     /codon_start=1
+                     /product="MHC class I antigen"
+                     /protein_id="XTJ48439.1"
+                     /translation="MAVMAPRTLVLLLSGALALTQTWAGSHSMRYFFTSVSRPGRGEP
+                     RFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDGETRKVKAHSQTHRVDL
+                     GTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAA
+                     DMAAQTTKHKWEAAHVAEQLRAYLEGTCVEWLRRYLENGKETLQRTDAPKTHMTHHAV
+                     SDHEATLRCWALSFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSG
+                     QEQRYTCHVQHEGLPKPLTLRWEPSSQPTIPIVGIIAGLVLFGAVITGAVVAAVMWRR
+                     KSSDRKGGSYSQAASSDSAQGSDVSLTACKV"
+ORIGIN      
+        1 tcctggatac tcacgacgcg gacccagttc tcactcccat tgggtgtcgg gtttccagag
+       61 aagccaatca gtgtcgtcgc ggtcgcggtt ctaaagtccg cacgcaccca ccgggactca
+      121 gattctcccc agacgccgag gatggccgtc atggcgcccc gaaccctcgt cctgctactc
+      181 tcgggggctc tggccctgac ccagacctgg gcgggtgagt gcggggtcgg gagggaaacg
+      241 gcctctgtgg ggagaagcaa cgggcccgcc tggcgggggc gcaggacccg ggaagccgcg
+      301 ccgggaggag ggtcgggcgg gtctcagcca ctcctcgtcc ccaggctctc actccatgag
+      361 gtatttcttc acatccgtgt cccggcccgg ccgcggggag ccccgcttca tcgcagtggg
+      421 ctacgtggac gacacgcagt tcgtgcggtt cgacagcgac gccgcgagcc agaggatgga
+      481 gccgcgggcg ccgtggatag agcaggaggg tccggagtat tgggacgggg agacacggaa
+      541 agtgaaggcc cactcacaga ctcaccgagt ggacctgggg accctgcgcg gctactacaa
+      601 ccagagcgag gccggtgagt gaccccggcc cggggcgcag gtcacgacct ctcatccccc
+      661 acggacgggc caggtcgccc acagtctccg ggtccgagat ccgccccgaa gccgcgggac
+      721 cccgagaccc ttgccccggg agaggcccag gcgcctttac ccggtttcat tttcagttta
+      781 ggccaaaaat ccccccaggt tggtcggggc ggggcggggc tcgggggacc gggctgaccg
+      841 cggggtccgg gccaggttct cacaccgtcc agaggatgta tggctgcgac gtggggtcgg
+      901 actggcgctt cctccgcggg taccaccagt acgcctacga cggcaaggat tacatcgccc
+      961 tgaaagagga cctgcgctct tggaccgcgg cggacatggc agctcagacc accaagcaca
+     1021 agtgggaggc ggcccatgtg gcggagcagt tgagagccta cctggagggc acgtgcgtgg
+     1081 agtggctccg cagatacctg gagaacggga aggagacgct gcagcgcacg ggtaccaggg
+     1141 gccacggggc gcctccctga tcgcctgtag atctcccggg ctggcctccc acaaggaggg
+     1201 gagacaattg ggaccaacac tagaatatcg ccctccctct ggtcctgagg gagaggaatc
+     1261 ctcctgggtt tccagatcct gtaccagaga gtgactctga ggttccgccc tgctctctga
+     1321 cacaattaag ggataaaatc tctgaaggaa tgacgggaag acgatccctc gaatactgat
+     1381 gagtggttcc ctttgacaca cacaggcagc agccttgggc ccgtgacttt tcctctcagg
+     1441 ccttgttctc tgcttcacac tcaatgtgtg tgggggtctg agtccagcac ttctgagtcc
+     1501 ttcagcctcc actcaggtca ggaccagaag tcgctgttcc ctcttcaggg actagaattt
+     1561 tccacggaat aggagattat cccaggtgcc tgtgtccagg ctggtgtctg ggttctgtgc
+     1621 tcccttcccc atcccaggtg tcctgtccat tctcaagata gccacatgtg tgctggagga
+     1681 gtgtcccatg acagatgcaa aatgcctgaa tgatctgact cttcctgaca gacgccccca
+     1741 aaacgcatat gactcaccac gctgtctctg accatgaagc caccctgagg tgctgggccc
+     1801 tgagcttcta ccctgcggag atcacactga cctggcagcg ggatggggag gaccagaccc
+     1861 aggacacgga gctcgtggag accaggcctg caggggatgg aaccttccag aagtgggcgg
+     1921 ctgtggtggt gccttctgga caggagcaga gatacacctg ccatgtgcag catgagggtt
+     1981 tgcccaagcc cctcaccctg agatggggta aggagggaga cgggggtgtc atgtctttta
+     2041 gggaaagcag gagcctctct gacctttagc agggtcaggg cccctcacct tcccctcttt
+     2101 tcccagagcc gtcttcccag cccaccatcc ccatcgtggg catcattgct ggcctggttc
+     2161 tctttggagc tgtgatcact ggagctgtgg tcgctgctgt gatgtggagg aggaagagct
+     2221 caggtgggga aggggtgaag ggtgggtctg agatttcttg tctcactgag ggttccaaga
+     2281 cccaggtaga agtgtgccct gcctcgttac tgggaagcac cacccacaat tatgggccta
+     2341 cccagcctgg gccctgtgtg ccagcactta ctcttttgta aagcacctgt taaaatgaag
+     2401 gacagattta tcaccttgat tacagcggtg atgggacctg atcccagcag tcacaagtca
+     2461 caggggaagg tccctgagga ccttcaggag ggcggttggt ccaggaccca cacctgcttt
+     2521 cttcatgttt cctgatcccg ccctgggtct gcagtcacac atttctggaa acttctctga
+     2581 ggtccaagac ttggaggttc ctctaggacc ttaaggccct gactcctttc tggtatctca
+     2641 caggacattt tcttcccaca gatagaaaag gagggagcta ctctcaggct gcaagtaagt
+     2701 atgaaggagg ctgatgcctg aggtccttgg gatattgtgt ttgggagccc atgggggagc
+     2761 tcacccaccc cacaattcct cctctagcca catcttctgt gggatctgac caggttctgt
+     2821 ttttgttcta ccccaggcag tgacagtgcc cagggctctg atgtgtctct cacagcttgt
+     2881 aaaggtgaga gcctggaggg cctgatgtgt gttgggtgtt gggcggaaca gtggacacag
+     2941 ctgtgctatg gggtttcttt ccattggatg tattgagcat gcgatgggct gtttaaagtg
+     3001 tgacccctca ctgtgacaga taggaatttg ttcatgaata tttttttcta tagtgtgaga
+     3061 cagctgcctt gtgtgggact gagaggcaag agttgttcct gcccttccct ttgtgacttg
+     3121 aagaaccctg actttgtttc tgcaaaggca cctgcatgtg tctgtgttcg tgtaggcata
+     3181 atgtgaggag gtggggagac caccccaccc ccatgtccac catgaccctc ttcccacgct
+     3241 gacctgtgct ccctccccaa tcatctttcc tgttccagag aggtggggct gaggtgtctc
+     3301 catctctgtc tcaacttcat ggtgcactga gctgtaactt cttccttccc tattaaaa
+//
+
+LOCUS       PV608413                1347 bp    mRNA    linear   PRI 12-MAY-2025
+DEFINITION  Homo sapiens clone AL-259H immunoglobulin heavy chain mRNA, partial
+            cds.
+ACCESSION   PV608413
+VERSION     PV608413.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1347)
+  AUTHORS   Prokaeva,T. and Spencer,B.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2025) Amyloidosis Center, Boston University
+            School of Medicine, 72 East Concord St, Boston, MA 02118, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1347
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /isolation_source="patient with primary amyloidosis"
+                     /db_xref="taxon:9606"
+                     /clone="AL-259H"
+                     /cell_type="plasma cells"
+                     /tissue_type="bone marrow"
+                     /geo_loc_name="USA"
+                     /collection_date="2005"
+     CDS             <1..>1347
+                     /codon_start=1
+                     /product="immunoglobulin heavy chain"
+                     /protein_id="XTI96198.1"
+                     /translation="QLHLQESRPGVVKPSQTLSLTCTVSNGSITSGGSYWTWIRQYPG
+                     KGLEWIASIYSSGTSYYNPSLKSRLTISLDTSKNQFSLKLTSVTAADTAVYYCARGPG
+                     VMIVDHFDFWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVT
+                     VSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDK
+                     RVESKYGPPCPSCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQ
+                     FNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSI
+                     EKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENN
+                     YKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK"
+     V_region        <1..298
+                     /note="IGHV4-31*09"
+     D_segment       303..315
+                     /note="IGHD3-16*01"
+     J_segment       325..367
+                     /note="IGHJ4*02"
+     C_region        368..>1347
+                     /note="IGHG4*10"
+ORIGIN      
+        1 cagctacatc tgcaggagtc gcgcccagga gtggtgaagc cttcacagac cctgtccctc
+       61 acctgcactg tctctaatgg ctccatcacc agtggtggtt cttactggac ctggatccgc
+      121 cagtacccag ggaagggcct ggagtggatt gcgtccatct attccagtgg gaccagttac
+      181 tacaacccgt ccctcaagag tcgacttacc atatcattag acacctctaa gaaccagttt
+      241 tccctgaagc tgacgtctgt gactgccgcg gacacggccg tctattactg tgcgagaggg
+      301 ccgggggtca tgattgtcga ccattttgac ttctggggcc agggaaccct ggtcaccgtc
+      361 tcctcagcct ccaccaaggg cccatcggtc ttccccctgg cgccctgctc caggagcacc
+      421 tccgagagca cagcggccct gggctgcctg gtcaaggact acttccccga accggtgacg
+      481 gtgtcgtgga actcaggcgc cctgaccagc ggcgtgcaca ccttcccggc tgtcctacag
+      541 tcctcaggac tctactccct cagcagcgtg gtgaccgtgc cctccagcag cttgggcacg
+      601 aagacctaca cctgcaatgt agatcacaag cccagcaaca ccaaggtgga caagagagtt
+      661 gagtccaaat atggtccccc atgcccatca tgcccagcac ctgagttcct ggggggacca
+      721 tcagtcttcc tgttcccccc aaaacccaag gacactctca tgatctcccg gacccctgag
+      781 gtcacgtgcg tggtggtgga cgtgagccag gaagaccccg aggtccagtt caactggtac
+      841 gtggatggcg tggaggtgca taatgccaag acaaagccgc gggaggagca gttcaacagc
+      901 acgtaccgtg tggtcagcgt cctcaccgtc ctgcaccagg actggctgaa cggcaaggag
+      961 tacaagtgca aggtctccaa caaaggcctc ccgtcctcca tcgagaaaac catctccaaa
+     1021 gccaaagggc agccccgaga gccacaggtg tacaccctgc ccccatccca ggaggagatg
+     1081 accaagaacc aggtcagcct gacctgcctg gtcaaaggct tctaccccag cgacatcgcc
+     1141 gtggagtggg agagcaatgg gcagccggag aacaactaca agaccacgcc tcccgtgctg
+     1201 gactccgacg gctccttctt cctctacagc aggctaaccg tggacaagag caggtggcag
+     1261 gaggggaatg tcttctcatg ctccgtgatg catgaggctc tgcacaacca ctacacacag
+     1321 aagagcctct ccctgtctct gggtaaa
+//
+
